@@ -16,8 +16,8 @@ Ce projet a été initialement mené par Charles Planque (HN 2025-2027) et Mathi
 
 ## Sommaire.
 - [Chapitre 0 - Programme](Chapitre%200/Chapitre%200%20-%20Programme.ipynb). Peu ou pas de surprises dans ce chapitre. On explique tout de même comment installer les principaux outils de développements. Le seul intérêt théorique de cette section est de montrer ce que l'on est en droit d'attendre une fois accompli le "_cours_". Cette partie est complétée par la Section 1 du Chapitre 1.
-- [Chapitre 1 - _Terra incognita_](). Faisons nos premiers pas en terre inconnue. L'objectif est très clair : se noyer, boire la tasse, perdre ses esprits puis se dire que tout ce qui suit sera très simple.
-    - [Section 1 - Projets en pagaille](). On s'attarde sur divers projets d'humanités numériques, mais pas que!
+- [Chapitre 1 - _Terra incognita_](Chapitre%201%20-%20Terra%20incognita/). Faisons nos premiers pas en terre inconnue. L'objectif est très clair : se noyer, boire la tasse, perdre ses esprits puis se dire que tout ce qui suit sera très simple.
+    - [Section 1 - Projets en pagaille](Chapitre%201%20-%20Terra%20incognita/Section%201%20-%20Projets%20en%20pagaille.ipynb). On s'attarde sur divers projets d'humanités numériques, mais pas que!
     - [Section 2 - 50 nuances de Python]() car même Python peut avoir du charme.
     - [Section 3 - Aperçus mathématiques](). Question absolument typique du voisin du dessous (X 1958) : "Comment se portent les mathématiques aujourd'hui ?" Très bien ! C'est ce que nous allons voir.
 - [Chapitre 2 - Manipulations de données intégrées (built-in)]().
@@ -51,11 +51,11 @@ Ce projet a été initialement mené par Charles Planque (HN 2025-2027) et Mathi
 - [Chapitre 8 - Tester et documenter](). L'écosystème Python propose des modules clef en main pour cela.
     - TBD
 - [Projet - TBD]().
-- [Projet - TBD]().
 - [Projet - Compression des données et archivage]().
-- [Projet - Entity Component System]().
+- [Projet - Dinosarium](). Il y a fort longtemps, le [Javaquarium](https://zestedesavoir.com/forums/sujet/447/javaquarium/) était un passage presque obligé pour quiconque souhaitait apprendre le Java. On décline cette exercice à la créature préférée des chartistes : le dinosaure.
+- [Projet - Entity Component System](). Le [Dinosarium]() peut être vu comme un premier pas vers ce projet.
 - [Projet - Scrap à tout va]().
-- [Projet - Petit parser fait maison]().
+- [Projet - Petit transpilateur fait maison](). On fait une version propre du transpilateur présenté dans le [Chapitre 1/Section 1](Chapitre%201%20-%20Terra%20incognita/Section%201%20-%20Projets%20en%20pagaille.ipynb)
 - [Projet - Argparse]().
 - [Projet - Bribes d'analyse textuelle et stylométrie]().
 - [Projet - Ah bon ? Le Conseil d'État a dit ça ?]()
