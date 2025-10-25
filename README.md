@@ -24,7 +24,7 @@ Ce projet a été initialement mené par Charles Planque (HN 2025-2027) et Mathi
     - [Section 1 - Algèbre booléenne](). Aux commencements furent le $0$ et le $1$. 
     - [Section 2 - Nombres en tout genre](). Comme le demande si bien Patrick Popescu-Pampu, [qu'est-ce que le genre](https://www.cmls.polytechnique.fr/xups/xups11-03.pdf) ? C'est un nombre ! La boucle est bouclée. 
     - [Section 3 - Strings](). Premier degré, on peut faire des choses affreusement compliquées en deux temps trois mouvements.
-    - [Section 4 - Listes](). 
+    - [Section 4 - Listes](). Les strings sont des listes mais les listes sont beaucoup plus que des strings!
     - [Section 5 - Structures de données](). Les listes ne sont qu'une porte d'entrée vers ce que l'on appelle les _containers_.
     - [Section 6 - L'attaque des fichiers](). Aucune grande difficulté mais de bonnes pratiques sont tout de même à prendre. On en profite pour présenter le système I/O.
     - [Section 7 - Fonctions](). Juste la chose la plus importante.
@@ -36,11 +36,11 @@ Ce projet a été initialement mené par Charles Planque (HN 2025-2027) et Mathi
     - [Section 4 - Le style alpin](). En n'autorisant qu'un nombre limité et élementaire d'opérations, gravissons quelques sommets.
 - [Chapitre 4 - Premières objections](). Découverte du monde de la programmation orienté objet.
     - [Section 1 - De l'organisation du code à sa rationalisation](). Des modules aux classes nous allons voir deux manières d'organiser son code, l'une plutôt formelle, l'autre surtout fonctionnelle.
-    - [Section 2 - Lutte des classes]().
-    - [Section 3 - Héritages]().
+    - [Section 2 - Lutte des classes](). cavalier.attaquer(). cavalierAdverse.riposter().
+    - [Section 3 - Héritages](). _Les successions s'ouvrent par la mort, au dernier domicile du défunt._ Article 720 du code civil. Fort heureusement, ce n'est pas l'unique moyen en Python !
     - [Section 4 - Revenir sur ses acquis](). Il peut parfois être nécessaire de contrôler et modifier le comportement de fonctions (intégrées) d'une classe.
     - [Section 4 - Planter le décor](). L'occasion de voir quelques _design pattern_ dont l'éminent _Decorator pattern_.
-    - [Section 5 - Zoom sur l'abstraction]().
+    - [Section 5 - Zoom sur l'abstraction](). from abc import ABC.
     - [Section 6 - Se faire beau](). Les décorateurs... ce n'est pas vraiment de l'orienté objet. Mais comme on vient de parler d'abstraction et qu'on est en fin de chapitre, pourquoi pas en parler ici?
 - [Chapitre 5 - La libraire standard](). Découvrons la en recodant certaines de ses plus fameuses méthodes.
     - TBD
