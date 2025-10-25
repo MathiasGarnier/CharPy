@@ -22,7 +22,7 @@ Ce projet a été initialement mené par Charles Planque (HN 2025-2027) et Mathi
     - [Section 3 - Aperçus mathématiques](). Question absolument typique du voisin du dessous (X 1958) : "Comment se portent les mathématiques aujourd'hui ?" Très bien ! C'est ce que nous allons voir.
 - [Chapitre 2 - Manipulations de données intégrées (built-in)]().
     - [Section 1 - Algèbre booléenne](). Aux commencements furent le $0$ et le $1$. 
-    - [Section 2 - Nombres en tout genre](). Comme le demande si bien Patrick Popescu-Pampu, [qu'est-ce que le genre](https://www.cmls.polytechnique.fr/xups/xups11-03.pdf) ? C'est un nombre ! La boucle est bouclée. Fort heureusement pour nous, pas besoin d'aller jusqu'au $\pi_1$ pour rencontrer une diversité de nombres.
+    - [Section 2 - Nombres en tout genre](). Comme le demande si bien Patrick Popescu-Pampu, [qu'est-ce que le genre](https://www.cmls.polytechnique.fr/xups/xups11-03.pdf) ? C'est un nombre ! La boucle est bouclée. 
     - [Section 3 - Strings]().
     - [Section 4 - Listes]().
     - [Section 5 - Structures de données]().
@@ -53,7 +53,7 @@ Ce projet a été initialement mené par Charles Planque (HN 2025-2027) et Mathi
 - [Projet - Ah bon ? Le Conseil d'État a dit ça ?]()
 - [Projet - Lire entre les lignes](). En opérant une décomposition spectrale d'un document, on peut parfois faire apparaître des textes qui semblaient avoir disparu.
 - [Projet - HTR et formules de maths]().
-- [Projet - Modélisations de populations et manuscrits]().
+- [Projet - Modélisations de populations et manuscrits](Projet%20-%20Modélisations%20de%20populations%20et%20manuscrits.ipynb).
 - [Pour le beau jeu 1 - Probabilités et chaînes de Markov]().
 - [Pour le beau jeu 2 - Éléments de géométrie et d'analyse en grandes dimensions]().
 - [Pour le beau jeu 3 - Introduction à la théorie spectrale des graphes](). Pourquoi ? Parce que.
